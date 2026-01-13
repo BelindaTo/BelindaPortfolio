@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from "react";
-import "./app.css";
+import "./App.css";
 
 export default function DesignerLandingPage() {
   const [scrollY, setScrollY] = useState(0);

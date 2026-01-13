@@ -280,6 +280,7 @@ body {
 .card-stack.loaded .card-d { transform: rotate(-10deg); }
 
 /* HERO TEXT */
+
 .hero-text {
   pointer-events: none; /* Don't block cards */
 }
